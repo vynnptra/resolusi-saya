@@ -1,3 +1,5 @@
 resolusi saya di tahun 2024
 -belajar php
 -belajar laravel
+-belajar javascript dasar
+-belajar javascript DOM
